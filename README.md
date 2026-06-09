@@ -4,12 +4,12 @@
 Desenvolvimento de um sistema de monitoramento inteligente para controle básico de uma missão espacial experimental, focando em energias renováveis e sustentabilidade.
 
 ## Funcionalidades
-* Monitoramento de dados simulados (Temperatura, Energia, Comunicação)[cite: 1].
-* Geração automática de alertas críticos[cite: 1].
-* Tomada de decisão lógica para respostas automatizadas[cite: 1].
+* Monitoramento de dados simulados (Temperatura, Energia, Comunicação).
+* Geração automática de alertas críticos.
+* Tomada de decisão lógica para respostas automatizadas.
 
 ## Tecnologias
-* Python (Algoritmos e Lógica de Programação)[cite: 1].
+* Python (Algoritmos e Lógica de Programação).
 
 ## Integrante
 Davi Monteiro
